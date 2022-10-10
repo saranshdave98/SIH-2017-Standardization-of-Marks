@@ -24,7 +24,12 @@
   
   # Some Snapshots
   
-  ![Quick-Start](quick-start.jpg)
+  ![snap0](snap0.jpg)
+  ![snap1](snap1.jpg)
+  ![snap2](snap2.jpg)
+  ![snap3](snap3.jpg)
+  ![snap4](snap4.jpg)
+  ![snap5](snap5.jpg)
 
   # Project Members
   - [Saransh Dave](https://www.linkedin.com/in/saransh-dave/)
