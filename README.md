@@ -1,6 +1,8 @@
 # SIH 2017 Standardization of Marks
  This project is based on the problem statement provided by the Minstry of HRD (India) for Smart India Hackathon '17. As per the given problem statement, we need to solve the problem of bunching of marks at certain levels and problem of high scorers being at disadvantageous position due to lower competitive percentile.
  
+ In this project, we implement our proposed algorithm for standardization of marks, and try to do so in a user interface that looks very similar to the CBSE's actual result interface.
+ 
  More information on the problem statement and our proposed method for solving it can be found [here](./Hackathon-PDF.pdf). We use a fictional SQL dataset (student_dataset) to demonstrate the working of our algorithm.
  
  # Setting up the project
