@@ -18,7 +18,7 @@
   
   This finally completes the setting up of the project for you to explore and play around with it. Thank You!
   
-  # Technologies used
+  # Technologies Used
   - PHP
   - MySQL
   - HTML
